@@ -1,2 +1,2 @@
-# Mercedes-Benz-Greener-Manufacturing
+# Kaggle Competition
 Self Case Study
