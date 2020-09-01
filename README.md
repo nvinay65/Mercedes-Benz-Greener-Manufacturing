@@ -4,4 +4,6 @@
 To find optimal value of "k" in Truncated SVD
 https://arxiv.org/pdf/1305.5870.pdf
 
+To check Multicollinearity
+https://en.wikipedia.org/wiki/Variance_inflation_factor
 
