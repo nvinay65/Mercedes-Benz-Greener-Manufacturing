@@ -8,3 +8,5 @@ To check Multicollinearity
 https://en.wikipedia.org/wiki/Variance_inflation_factor
 
 Blog: https://medium.com/@nvinay65/mercedes-benz-greener-manufacturing-2181015ee378
+
+Note: Unfortunately i haven't tuned the Deep learning Models in file named Appendix.ipynb, i'll do it at update in future.
