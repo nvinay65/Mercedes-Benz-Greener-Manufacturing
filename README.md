@@ -7,3 +7,4 @@ https://arxiv.org/pdf/1305.5870.pdf
 To check Multicollinearity
 https://en.wikipedia.org/wiki/Variance_inflation_factor
 
+Blog: https://medium.com/@nvinay65/mercedes-benz-greener-manufacturing-2181015ee378
